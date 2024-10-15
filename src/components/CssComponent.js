@@ -4,7 +4,7 @@ function CssComponent() {
     <h1>Bootstrap CSS</h1>
     <form>
       <div className="mb-2">
-        <label className="form-label">User name</label>
+        <label className="form-label">Username</label>
         <input type="text" className="form-control" />
       </div>
       <div className="mb-2">

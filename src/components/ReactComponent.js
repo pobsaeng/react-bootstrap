@@ -7,7 +7,7 @@ function ReactComponent() {
       <h1>React Bootstrap</h1>
       <Form>
         <Form.Group className="mb-2" controlId="formUsername">
-          <Form.Label>User name</Form.Label>
+          <Form.Label>Username</Form.Label>
           <Form.Control type="text" placeholder="Enter username" />
         </Form.Group>
 
